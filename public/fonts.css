@@ -1,10 +1,3 @@
-/* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
-@font-face {
-  font-family: "Virgil";
-  src: url("Virgil.woff2");
-  font-display: swap;
-}
-
 /* https://github.com/microsoft/cascadia-code */
 @font-face {
   font-family: "Cascadia";
@@ -35,4 +28,9 @@
   src: url("Assistant-Bold.woff2");
   font-display: swap;
   font-weight: 700;
+}
+@font-face {
+  font-family: "Muyao";
+  src: url("Muyao.ttf");
+  font-display: swap;
 }

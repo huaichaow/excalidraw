@@ -736,10 +736,10 @@ export const actionChangeFontFamily = register({
       testId: string;
     }[] = [
       {
-        value: FONT_FAMILY.Virgil,
+        value: FONT_FAMILY.Muyao,
         text: t("labels.handDrawn"),
         icon: FreedrawIcon,
-        testId: "font-family-virgil",
+        testId: "font-family-muyao",
       },
       {
         value: FONT_FAMILY.Helvetica,

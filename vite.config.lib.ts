@@ -20,7 +20,7 @@ export default defineConfig({
     outDir: "../e-draw/packages/e-draw-ui/build",
     lib: {
       // Could also be a dictionary or array of multiple entry points
-      entry: resolve(__dirname, "src/excalidraw-app/index.tsx"),
+      entry: resolve(__dirname, "excalidraw-app/index.tsx"),
       name: "easy-draw",
       // the proper extensions will be added
       fileName: "easy-draw",
